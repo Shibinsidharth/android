@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Registeration</string>
+    <string-array name="gender">
+        <item>male</item>
+        <item>female</item>
+        <item>others</item>
+    </string-array>
+    <string-array name="subject">
+        <item>ADM</item>
+        <item>Machine learning</item>
+        <item>Adv. Java Programming</item>
+        <item>Functional programming</item>
+        <item>Big data</item>
+        <item>Mobile computing</item>
+    </string-array>
+</resources>
